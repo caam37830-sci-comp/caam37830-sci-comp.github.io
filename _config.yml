@@ -1,7 +1,6 @@
 theme: jekyll-theme-primer
 
 title: Scientific Computing with Python
-description: A course on scientific computing in the Python ecosystem.
 course_id: CAAM 37830 / STAT 37830
 
 # Org-pages site served from the domain root, so baseurl is empty.
