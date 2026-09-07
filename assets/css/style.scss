@@ -1,0 +1,360 @@
+---
+# Compiled by Jekyll to /assets/css/style.css.
+# This file shadows the copy that ships inside the jekyll-theme-primer gem,
+# so the theme is still imported below -- we only layer on top of it.
+#
+#   * Above the @import: overrides of primer's `!default` variables.
+#   * Below the @import: overrides of primer's compiled rules, plus the
+#     site chrome (header / nav / footer) that primer does not provide.
+---
+
+// ===========================================================================
+//  Palette
+//  Change $accent alone to re-tint the whole site.
+// ===========================================================================
+$accent:       #800000; // UChicago maroon
+$accent-dark:  #5c0000;
+$accent-soft:  rgba(128, 0, 0, 0.08);
+$rule-soft:    #ebedef;
+
+// ===========================================================================
+//  Primer variable overrides -- MUST come before the @import, because primer
+//  declares each of these with `!default`.
+// ===========================================================================
+$body-font-size:   17px; // primer ships 14px, which is the small text you saw
+$body-line-height: 1.6;  // primer ships 1.5
+
+@import "jekyll-theme-primer";
+
+// ===========================================================================
+//  Base
+// ===========================================================================
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: $white;
+}
+
+a {
+  color: $accent;
+
+  &:hover,
+  &:focus {
+    color: $accent-dark;
+    text-decoration: underline;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid $accent;
+  outline-offset: 2px;
+}
+
+// Keyboard-only shortcut past the nav.
+.skip-link {
+  position: absolute;
+  left: -9999px;
+
+  &:focus {
+    left: $spacer-3;
+    top: $spacer-2;
+    z-index: 20;
+    padding: $spacer-2 $spacer-3;
+    background: $white;
+    border: 1px solid $accent;
+    border-radius: $border-radius;
+  }
+}
+
+// ===========================================================================
+//  Site header
+// ===========================================================================
+// The header is site chrome, not a page heading. It is deliberately lighter
+// than the in-page <h1> so the two don't compete on the home page, where the
+// markdown repeats the course name.
+.site-header {
+  padding: $spacer-4 $spacer-3 $spacer-3;
+  background:
+    linear-gradient(180deg, $accent-soft 0%, rgba(255, 255, 255, 0) 100%);
+  border-bottom: 1px solid $rule-soft;
+  text-align: center;
+}
+
+.site-course-id {
+  margin: 0;
+  font-family: $mono-font;
+  font-size: 12px;
+  font-weight: $font-weight-semibold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $accent;
+}
+
+.site-title {
+  display: inline-block;
+  margin-top: $spacer-1;
+  font-size: 20px;
+  font-weight: $font-weight-semibold;
+  line-height: $lh-condensed;
+  color: $gray-900;
+
+  &:hover {
+    color: $accent;
+    text-decoration: none;
+  }
+}
+
+.site-subtitle {
+  max-width: 46em;
+  margin: $spacer-1 auto 0;
+  font-size: 15px;
+  color: $text-gray;
+}
+
+// ===========================================================================
+//  Navigation
+// ===========================================================================
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.92);
+  backdrop-filter: saturate(180%) blur(8px);
+  -webkit-backdrop-filter: saturate(180%) blur(8px);
+  border-bottom: 1px solid $rule-soft;
+}
+
+.site-nav-inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $spacer-1;
+  align-items: center;
+  justify-content: center;
+  padding: $spacer-2 $spacer-3;
+}
+
+.nav-link {
+  padding: 6px 12px;
+  font-size: 15px;
+  font-weight: $font-weight-semibold;
+  color: $text-gray;
+  border-radius: 999px;
+  white-space: nowrap;
+  transition: background-color 0.12s ease, color 0.12s ease;
+
+  &:hover,
+  &:focus {
+    color: $accent;
+    background-color: $accent-soft;
+    text-decoration: none;
+  }
+
+  &.is-active {
+    color: $white;
+    background-color: $accent;
+  }
+}
+
+// The repo link sits apart from the page links.
+.nav-link--repo {
+  color: $gray-500;
+
+  &::before {
+    content: "\2197\00a0"; // north-east arrow
+    font-weight: $font-weight-normal;
+  }
+}
+
+// ===========================================================================
+//  Content
+// ===========================================================================
+.page-content {
+  min-height: 60vh;
+}
+
+.markdown-body {
+  font-size: $body-font-size;
+  color: $text-gray-dark;
+
+  // Headings: tint primer's rules with the accent and keep anchor jumps clear
+  // of the sticky nav.
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    scroll-margin-top: 72px;
+  }
+
+  h1 {
+    margin-top: $spacer-5;
+    font-size: 1.9em;
+    color: $accent;
+    border-bottom: 2px solid $accent-soft;
+  }
+
+  h2 {
+    margin-top: $spacer-6;
+    font-size: 1.45em;
+    border-bottom: 1px solid $rule-soft;
+  }
+
+  h3 {
+    margin-top: $spacer-4;
+    font-size: 1.15em;
+    color: $gray-700;
+  }
+
+  // Anchor links added by anchor.js.
+  .anchorjs-link {
+    color: $gray-400;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent;
+    }
+  }
+
+  p {
+    margin-bottom: $spacer-3;
+  }
+
+  // Lists carry most of this site's content, so give them room to breathe.
+  ul,
+  ol {
+    padding-left: $spacer-4;
+    margin-bottom: $spacer-3;
+  }
+
+  li {
+    margin-bottom: $spacer-1;
+
+    > ul,
+    > ol {
+      margin-top: $spacer-1;
+      margin-bottom: $spacer-1;
+    }
+  }
+
+  ul li::marker {
+    color: $accent;
+  }
+
+  ol li::marker {
+    color: $gray-500;
+    font-variant-numeric: tabular-nums;
+  }
+
+  blockquote {
+    padding: $spacer-1 $spacer-3;
+    color: $text-gray;
+    border-left: 3px solid $accent-soft;
+  }
+
+  // Tables: primer sets `display: block` so wide tables scroll; keep that,
+  // but make the header row read as a header.
+  table {
+    font-size: 0.95em;
+
+    th {
+      background-color: $gray-100;
+    }
+
+    th,
+    td {
+      border-color: $rule-soft;
+    }
+  }
+
+  pre,
+  .highlight pre {
+    font-size: 0.85em;
+    border: 1px solid $rule-soft;
+  }
+
+  code,
+  tt {
+    background-color: $accent-soft;
+  }
+
+  pre > code {
+    background-color: transparent;
+  }
+
+  hr {
+    height: 1px;
+    margin: $spacer-5 0;
+    background-color: $rule-soft;
+    border: 0;
+  }
+
+  img {
+    border-radius: $border-radius;
+  }
+}
+
+// ===========================================================================
+//  Footer
+// ===========================================================================
+.site-footer {
+  margin-top: $spacer-6;
+  padding: $spacer-4 0;
+  font-size: 14px;
+  color: $text-gray;
+  background-color: $gray-000;
+  border-top: 1px solid $rule-soft;
+
+  p {
+    margin: 0 0 $spacer-1;
+  }
+
+  a {
+    color: $text-gray;
+    text-decoration: underline;
+
+    &:hover {
+      color: $accent;
+    }
+  }
+}
+
+// ===========================================================================
+//  Small screens
+// ===========================================================================
+@media (max-width: 543px) {
+  .site-header {
+    padding: $spacer-4 0 $spacer-3;
+  }
+
+  .site-title {
+    font-size: 24px;
+  }
+
+  .site-subtitle {
+    font-size: 15px;
+  }
+
+  .nav-link {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+
+  .markdown-body {
+    font-size: 16px;
+  }
+}
+
+// Respect a reduced-motion preference.
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .nav-link {
+    transition: none;
+  }
+}

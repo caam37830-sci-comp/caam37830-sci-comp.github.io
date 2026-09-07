@@ -1,4 +1,15 @@
+# Site navigation. Rendered by _layouts/default.html.
+# Internal urls are resolved against site.baseurl; anything containing "://"
+# is treated as an external link.
 - text: Home
   url: /
 - text: Syllabus
   url: /syllabus.html
+- text: Schedule
+  url: /schedule.html
+- text: Reader
+  url: https://uchi-compy23.github.io/notes
+- text: Canvas
+  url: https://canvas.uchicago.edu/courses/67036
+- text: Resources
+  url: /resources.html

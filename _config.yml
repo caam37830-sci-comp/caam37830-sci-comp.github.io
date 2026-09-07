@@ -1,4 +1,18 @@
 theme: jekyll-theme-primer
+
 title: Scientific Computing with Python
 description: A course on scientific computing in the Python ecosystem.
-baseurl: /
+course_id: CAAM 37830 / STAT 37830
+
+# Org-pages site served from the domain root, so baseurl is empty.
+url: https://caam37830-sci-comp.github.io
+baseurl: ""
+
+# jekyll-theme-primer pulls this in as a gem dependency, but list it so the
+# {% seo %} tag in _layouts/default.html keeps working if the theme changes.
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - .DS_Store

@@ -1,34 +1,63 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="theme-color" content="#800000">
 
 {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
 
   <body>
+    <a class="skip-link" href="#content">Skip to content</a>
 
-    <header>
-      <div class="container">
-        <h1 style="text-align: center;">
-            <a href="{{site.baseurl}}/">Home</a> |
-            <a href="{{site.baseurl}}/syllabus.html">Syllabus</a> |
-            <a href="{{site.baseurl}}/schedule.html">Schedule</a> |
-            <a href="https://uchi-compy23.github.io/notes">Reader</a> |
-            <a href="https://canvas.uchicago.edu/courses/67036">Canvas</a> |
-            <a href="{{site.baseurl}}/resources.html">Resources</a> |
-            <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </h1>
-      </div>
+    <header class="site-header">
+      {% if site.course_id %}
+      <p class="site-course-id">{{ site.course_id }}</p>
+      {% endif %}
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      {% if site.description %}
+      <p class="site-subtitle">{{ site.description }}</p>
+      {% endif %}
     </header>
 
-    <div class="container">
-      <section id="main_content">
-        {{ content }}
-      </section>
-    </div>
+    <nav class="site-nav" aria-label="Main navigation">
+      <div class="site-nav-inner">
+        {%- comment -%}
+          page.url is "/index.html" for the home page, so strip the filename
+          before comparing it against the menu entry.
+        {%- endcomment -%}
+        {%- assign current = page.url | remove: 'index.html' -%}
+        {%- for item in site.data.menu -%}
+          {%- if item.url contains '://' -%}
+        <a class="nav-link" href="{{ item.url }}">{{ item.text }}</a>
+          {%- else -%}
+        <a class="nav-link{% if current == item.url %} is-active{% endif %}"
+           href="{{ item.url | relative_url }}">{{ item.text }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+        {%- if site.github.repository_url -%}
+        <a class="nav-link nav-link--repo" href="{{ site.github.repository_url }}">GitHub</a>
+        {%- endif -%}
+      </div>
+    </nav>
+
+    <main id="content" class="page-content container-lg px-3 my-5 markdown-body">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container-lg px-3">
+        <p>{{ site.title }} &middot; University of Chicago</p>
+        {%- if site.github.repository_url %}
+        <p>Source on <a href="{{ site.github.repository_url }}">GitHub</a>.</p>
+        {%- endif %}
+      </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add('.markdown-body h2, .markdown-body h3');</script>
   </body>
 </html>
