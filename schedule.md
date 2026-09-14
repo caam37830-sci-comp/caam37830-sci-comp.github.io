@@ -12,9 +12,9 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 2. [Install Jupyter notebooks](https://caam37830-sci-comp.github.io/notes/python/jupyter)
 3. [Using Python](https://caam37830-sci-comp.github.io/notes/python/using-python)
    
-## Day 00 - 09/30
+## Day 00 - 09/29
 ### Class Material
-[Intro Slides](https://uchi-compy23.github.io/files/Course_intro_2025.key)
+[Intro Slides](https://caam37830-sci-comp.github.io/files/Course_intro_2026.key)
 
 0. [Python Scripts](https://caam37830-sci-comp.github.io/notes/python/using-python#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
 1. [Python Basics](https://caam37830-sci-comp.github.io/notes/python/basics)
@@ -243,7 +243,7 @@ No class
 
 Groups finalized 10/20.
 
-Project proposal due 11/4.
+Project proposal due 11/5.
 
 Midterm checkpoint due 11/19.
 
@@ -251,4 +251,4 @@ Final Project report due 12/11.
 
 ## Finals Period
 
-College reading period is 12/6-12/8
+College reading period is 12/5-12/7

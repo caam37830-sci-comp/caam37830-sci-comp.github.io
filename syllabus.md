@@ -3,11 +3,11 @@
 Course number: CAAM 37830=STAT 37830
 
 ## People
-Instructor:  [Tianyu Kong](https://timkong98.github.io/). William H. Kruskal Instructor in the Department of Statistics. 
+Instructor:  [Tianyu Kong](https://timkong98.github.io/) (tianyuk@uchicago.edu). William H. Kruskal Instructor in the CCAM (Committee on Computational and Applied Mathematics). 
 
-OH TBD.
+OH: TBD.
 
-TA: TBD
+TA: Tina Wang (jw2181@uchicago.edu) and Angela Wang (aawang@uchicago.edu)
 
 
 ## Course Format
@@ -76,9 +76,11 @@ You are welcome to make your solutions publicly available, but **please wait unt
 
 The group project will be judged collectively - you do not need to say who did what.  This will all be recorded by git logs anyways.
 
-### The Use of NLP-based Tools
+### The Use of Generative AI
 
-There are many natural language processing tools available, which can be used to generate good code efficiently. In this course, however, we will be developing skills and knowledge that are important to discover and practice on your own. Because use of AI tools inhibits development of these skills and knowledge, students are not allowed to use any AI tools, such as ChatGPT or DallE 2, in this course. Students are expected to present work that is their own without assistance from automated tools. If you are unclear if something is an AI tool, please check with your instructor. Using AI tools for any purposes in this course will violate the [University’s academic integrity policy](https://studentmanual.uchicago.edu/academic-policies/academic-honesty-plagiarism/) and be treated as such. 
+TBD
+
+<!-- There are many natural language processing tools available, which can be used to generate good code efficiently. In this course, however, we will be developing skills and knowledge that are important to discover and practice on your own. Because use of AI tools inhibits development of these skills and knowledge, students are not allowed to use any AI tools, such as ChatGPT or DallE 2, in this course. Students are expected to present work that is their own without assistance from automated tools. If you are unclear if something is an AI tool, please check with your instructor. Using AI tools for any purposes in this course will violate the [University’s academic integrity policy](https://studentmanual.uchicago.edu/academic-policies/academic-honesty-plagiarism/) and be treated as such.  -->
 
 ## Textbook & Readings
 
