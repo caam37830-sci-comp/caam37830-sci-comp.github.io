@@ -7,19 +7,19 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 <!-- Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/schedule_f2021.md) [Winter 2022](archive/schedule_w2022.md) [Fall 2023](archive/schedule_f2023.md) [Fall 2024](archive/schedule_f2024.md) -->
 
 ## System Setup
-0. [Basic Bash](https://uchi-compy23.github.io/notes/09_computing/basic_bash.html)
-1. [Install Anaconda Python](https://uchi-compy23.github.io/notes/00_python/conda.html)
-2. [Install Jupyter notebooks](https://uchi-compy23.github.io/notes/00_python/jupyter.html)
-3. [Using Python](https://uchi-compy23.github.io/notes/00_python/using_python.html)
+0. [Basic Bash](https://caam37830-sci-comp.github.io/notes/computing/basic-bash)
+1. [Install Anaconda Python](https://caam37830-sci-comp.github.io/notes/python/conda)
+2. [Install Jupyter notebooks](https://caam37830-sci-comp.github.io/notes/python/jupyter)
+3. [Using Python](https://caam37830-sci-comp.github.io/notes/python/using-python)
    
 ## Day 00 - 09/30
 ### Class Material
-[Intro Slides](https://uchi-compy23.github.io/files/Course_intro_2025.key)
+[Intro Slides](https://caam37830-sci-comp.github.io/files/Course_intro_2025.key)
 
-0. [Python Scripts](https://uchi-compy23.github.io/notes/00_python/using_python.html#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
-1. [Python Basics](https://uchi-compy23.github.io/notes/00_python/basics.html)
+0. [Python Scripts](https://caam37830-sci-comp.github.io/notes/python/using-python#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
+1. [Python Basics](https://caam37830-sci-comp.github.io/notes/python/basics)
 
-3. [Basic Containers and Packages](https://uchi-compy23.github.io/notes/00_python/basic_packages.html)
+3. [Basic Containers and Packages](https://caam37830-sci-comp.github.io/notes/python/basic-packages)
 
 ### Reading
 
@@ -37,10 +37,10 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 ### Class Material
 
-0. [Functions in Python](https://uchi-compy23.github.io/notes/00_python/functions.html)
-1. [Recursion](https://uchi-compy23.github.io/notes/01_analysis/recursion.html)
-2. [Bits, Bytes, and Numbers](https://uchi-compy23.github.io/notes/00_python/bitsbytes.html)
-3. [Asymptotic notation](https://uchi-compy23.github.io/notes/01_analysis/asymptotic_notation.html)
+0. [Functions in Python](https://caam37830-sci-comp.github.io/notes/python/functions)
+1. [Recursion](https://caam37830-sci-comp.github.io/notes/analysis/recursion)
+2. [Bits, Bytes, and Numbers](https://caam37830-sci-comp.github.io/notes/python/bitsbytes)
+3. [Asymptotic notation](https://caam37830-sci-comp.github.io/notes/analysis/asymptotic-notation)
 
 
 ### Reading
@@ -53,10 +53,10 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 ## Day 02 - 10/07
 ### Class Material
-0. [Decorators](https://uchi-compy23.github.io/notes/00_python/decorators.html)
-1. [Vectorization, numpy ufuncs, numba](https://uchi-compy23.github.io/notes/09_computing/performance/numpy_ufuncs.html)
-2. [Memory layout](https://uchi-compy23.github.io/notes/02_linear_algebra/memory.html)
-3. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html)
+0. [Decorators](https://caam37830-sci-comp.github.io/notes/python/decorators)
+1. [Vectorization, numpy ufuncs, numba](https://caam37830-sci-comp.github.io/notes/computing/performance/numpy-ufuncs)
+2. [Memory layout](https://caam37830-sci-comp.github.io/notes/linear-algebra/memory)
+3. [Python Objects, OOP](https://caam37830-sci-comp.github.io/notes/python/classes)
 
 ### Reading
 * [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
@@ -68,8 +68,8 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * Homework 1 released.
 
 ### Class Material
-0. [Python Objects, OOP](https://uchi-compy23.github.io/notes/00_python/classes.html) (continued)
-1. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+0. [Python Objects, OOP](https://caam37830-sci-comp.github.io/notes/python/classes) (continued)
+1. [Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
 
 ### Reading
 
@@ -89,11 +89,11 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 ## Day 04 - 10/14
 ### Class Material
 
-0. [Dense Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/numpy_scipy_linalg.html) (Continued)
-1. [SciPy BLAS and LAPACK Interfaces](https://uchi-compy23.github.io/notes/02_linear_algebra/blas_lapack.html)
-2. [Modules and Packages](https://uchi-compy23.github.io/notes/00_python/modules.html) [[GitHub repository](https://github.com/UChi-ComPy23/notes/tree/master/00_python/mypack)
-3. [Convergence of Algorithms](https://uchi-compy23.github.io/notes/01_analysis/convergence.html)
-4. [Root Finding](https://uchi-compy23.github.io/notes/04_functions/roots.html)
+0. [Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) (Continued)
+1. [SciPy BLAS and LAPACK Interfaces](https://caam37830-sci-comp.github.io/notes/linear-algebra/blas-lapack)
+2. [Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository](https://github.com/UChi-ComPy23/notes/tree/master/00_python/mypack)
+3. [Convergence of Algorithms](https://caam37830-sci-comp.github.io/notes/analysis/convergence)
+4. [Root Finding](https://caam37830-sci-comp.github.io/notes/functions/roots)
      
 ### Reading
 
@@ -104,9 +104,9 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 ## Day 05 - 10/16
 ### Class Material
-0. [Linear operators](https://uchi-compy23.github.io/notes/02_linear_algebra/linearoperators.html)
-1. [Sparse matrix formats, `scipy.sparse`](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse.html)
-2. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html)
+0. [Linear operators](https://caam37830-sci-comp.github.io/notes/linear-algebra/linearoperators)
+1. [Sparse matrix formats, `scipy.sparse`](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse)
+2. [Sparse Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse-linalg)
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
@@ -116,8 +116,8 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 ## Day 06 - 10/21
 
 ### Class material
-0. [Sparse Linear Algebra](https://uchi-compy23.github.io/notes/02_linear_algebra/sparse_linalg.html) (Continued)
-1. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb)
+0. [Sparse Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse-linalg) (Continued)
+1. [Differentiation](https://caam37830-sci-comp.github.io/files/differentiation.ipynb)
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
@@ -129,10 +129,10 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * Homework 3 released
 
 ### Class material
-0. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb) (Continued
-1. [Initial Value Problems](https://uchi-compy23.github.io/notes/04_functions/ode_initial.html)
-2. [Unit testing](https://uchi-compy23.github.io/notes/09_computing/unittest.html)
-3. [Sympy](https://uchi-compy23.github.io/notes/04_functions/sympy.html)
+0. [Differentiation](https://caam37830-sci-comp.github.io/files/differentiation.ipynb) (Continued
+1. [Initial Value Problems](https://caam37830-sci-comp.github.io/notes/functions/ode-initial)
+2. [Unit testing](https://caam37830-sci-comp.github.io/notes/computing/unittest)
+3. [Sympy](https://caam37830-sci-comp.github.io/notes/functions/sympy)
    
 ### Reading
 * [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
@@ -142,8 +142,8 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 ## Day 08 - 10/28
 
 ### Class material
-0. [More on Plotting](https://uchi-compy23.github.io/notes/00_python/pyplot.html)
-1. [Interpolation](https://uchi-compy23.github.io/notes/04_functions/interpolation.html)
+0. [More on Plotting](https://caam37830-sci-comp.github.io/notes/python/pyplot)
+1. [Interpolation](https://caam37830-sci-comp.github.io/notes/functions/interpolation)
 
 
 ### Reading
@@ -164,8 +164,8 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 
 ### Class material
-0. [Integration, Quadrature](https://uchi-compy23.github.io/notes/04_functions/integration.html)
-1. [Python Iterators and Generators](https://uchi-compy23.github.io/notes/00_python/iterators.html)
+0. [Integration, Quadrature](https://caam37830-sci-comp.github.io/notes/functions/integration)
+1. [Python Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators)
 
 
 
@@ -180,7 +180,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
   
 ### Class material
 0. Condition numbers
-1. [Agent-based modeling](https://uchi-compy23.github.io/notes/09_computing/agent_based_models.html)
+1. [Agent-based modeling](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
 
 
 ## Day 11 - 11/06
@@ -189,13 +189,13 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * Homework 5 released
 
 ### Class material
-0. [Optimization](https://uchi-compy23.github.io/notes/03_optimization/scipy_opt.html)
-1. [Pandas](https://uchi-compy23.github.io/notes/07_data/pandas.html)
+0. [Optimization](https://caam37830-sci-comp.github.io/notes/optimization/scipy-opt)
+1. [Pandas](https://caam37830-sci-comp.github.io/notes/data/pandas)
 
 ## Day 12 - 11/11
-0. [Scikit Learn](https://uchi-compy23.github.io/notes/07_data/sklearn.html)
-1. [Distances](https://uchi-compy23.github.io/notes/08_geometry/distances.html)
-2. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html)
+0. [Scikit Learn](https://caam37830-sci-comp.github.io/notes/data/sklearn)
+1. [Distances](https://caam37830-sci-comp.github.io/notes/geometry/distances)
+2. [Nearest Neighbor Queries](https://caam37830-sci-comp.github.io/notes/geometry/nearestneighbor)
 
 
 
@@ -206,11 +206,11 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * Homework 6 released
   
 ### Class Material
-0. [Nearest Neighbor Queries](https://uchi-compy23.github.io/notes/08_geometry/nearestneighbor.html) (continued)
-1. [Dimensionality Reduction, Plotly](https://uchi-compy23.github.io/notes/07_data/dimension_reduction.html)
-2. [Linear Algebra in PyTorch](https://uchi-compy23.github.io/notes/02_linear_algebra/pytorch.html)
-3. [Basic Neural Networks in PyTorch](https://uchi-compy23.github.io/notes/07_data/pytorch.html)
-4. [Scipy distributions](https://uchi-compy23.github.io/notes/06_probability_statistics/scipy_stats.html)
+0. [Nearest Neighbor Queries](https://caam37830-sci-comp.github.io/notes/geometry/nearestneighbor) (continued)
+1. [Dimensionality Reduction, Plotly](https://caam37830-sci-comp.github.io/notes/data/dimension-reduction)
+2. [Linear Algebra in PyTorch](https://caam37830-sci-comp.github.io/notes/linear-algebra/pytorch)
+3. [Basic Neural Networks in PyTorch](https://caam37830-sci-comp.github.io/notes/data/pytorch)
+4. [Scipy distributions](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats)
  
 
 ## Day 14 - 11/18
@@ -225,7 +225,7 @@ No class
 * Project checkpoint due
 
 ### Class material
-0. [Monte Carlo Methods](https://uchi-compy23.github.io/notes/06_probability_statistics/monte_carlo.html)
+0. [Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
 1. Introduction to Fourier methods
 
 
@@ -237,7 +237,7 @@ No class
 
 ### Class material
 0. Introduction to Fourier methods
-1. [Boundary Value Problems](https://uchi-compy23.github.io/notes/04_functions/bvp.html)
+1. [Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/functions/bvp)
 
 ## Project
 
