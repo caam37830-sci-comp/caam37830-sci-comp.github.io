@@ -16,7 +16,9 @@ This course is scheduled to meet TR 12:30PM - 01:50PM in Jones 303.
 
 Homework will be posted Thursday, and due the following Thursday at 10 PM.  We plan to have a homework assignment every week, apart from Thanksgiving break.
 
-There will be a course-long group project.  This will include a project proposal, a midterm checkpoint, and a final report.  Groups will be organized a few weeks into the quarter.
+There will be around 4 in-class quizzes, which will cover basic concepts and understanding of homework problems.
+
+There will be a course-long group project. This will include a project proposal, a midterm checkpoint, a presentation, and a final written report. Groups will be organized a few weeks into the quarter.
 
 ### Prerequisites
 
@@ -78,7 +80,7 @@ The group project will be judged collectively - you do not need to say who did w
 
 ### The Use of Generative AI
 
-There are many natural language processing tools available, which can be used to generate good code efficiently. We recognize the importance of using generative AI as a tool for assisting you with your tasks, so the use of AI is **allowed** in this course. Students *must* disclose the use of AI in their work, and summarize the prompt used and the response of AI, especially if mistakes are identified in their output. Students are expected to take responsibility of their work, i.e. to explain the thought process behind the completed works. We want you to develop skills and knowledge that are important to discover and practice on your own. 
+There are many natural language processing tools available, which can be used to generate good code efficiently. We recognize the importance of using generative AI as a tool for assisting you with your tasks, so the use of AI is **allowed** in this course. Students **must** disclose the use of AI in their work, and summarize the prompt used and the response of AI, especially if mistakes are identified in their output. Students are expected to take responsibility of their work, i.e. to explain the thought process behind the completed works. We want you to develop skills and knowledge that are important to discover and practice on your own. 
 
 Using AI tools for any purposes in this course without proper acknowledgement will violate the [University’s academic integrity policy](https://studentmanual.uchicago.edu/academic-policies/academic-honesty-plagiarism/) and be treated as such.
 
