@@ -36,20 +36,20 @@ In addition to a University of Chicago account, you'll need to create a [GitHub]
 
 ## Evaluation
 
-* Weekly homework (40% of final grade, each weighted equally)
-* Two in-class homework reviews (10% of final grade)
-* Group project proposal (5% of final grade)
-* Group midterm checkpoint (10% of final grade)
-* Group final project/report (25% of final grade)
-* In-person project discussion  (10% of final grade)
-
-10% of group work (5% of total grade) will be based on teammate evaluations.  These evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.
+* Weekly homework (20% of final grade, around 7 - 8, weighted equally)
+* In-class quizzes (20% of final grade, around 4)
+* Group project: proposal (5% of final grade)
+* Group project: midterm checkpoint (10% of final grade)
+* Group project: discussion (20% of final grade)
+* Group project: final written report (20% of final grade)
+* Teammate evaluations (5% of final grade)
 
 There are several things your work will be evaluated on
 1. Correctness - is your answer correct?  Does your code produce the correct output? (may use an autograder to check this)
 2. Performance/efficiency - there are often many ways to implement an algorithm.  Some will be faster than others.  We'll let you know if we are looking for certain optimizations.
 3. Style - your code should be reasonably easy to understand.  This is typically achieved through the use of docstrings, comments, and appropriately named variables.  
-4. Team work - we'll ask your teammates to evaluate whether you performed a fair share of the work.
+4. Team work - we'll ask your teammates to evaluate whether you performed a fair share of the work. Teammate evaluations will be kept confidential.  If you believe your score to be unfair, you can reach out to the instruction staff.  We will look at git logs/history if we need to resolve any disputes.
+
 
 ### Late Work Policy
 Deadlines have a 2 hour grace period to compensate for technical issues. Work submitted after that grace period is considered late.
@@ -68,7 +68,7 @@ You will have one week from the day assignment grades are released to request a 
 
 You are encouraged to collaborate with others in the class and use the internet to help with solving problems.
 
-When working with others, you can discuss problems and solutions, but **do not copy code**.  Note anyone you who contributed to your solution in a comment in your code.  Same goes for any written answers (write your own, acknowledge others).
+When working with others, you can discuss problems and solutions, but **do not copy each others work directly**.  Note anyone you who contributed to your solution in a comment in your code.  Same goes for any written answers (write your own, acknowledge others).
 
 If you find helpful information online (e.g. on stackoverflow), put a note about what you used as well as the url in a comment in your code.  There are only so many ways to call a function, and it is perfectly acceptable to copy and paste a line or two of code (with a comment).
 
@@ -78,9 +78,9 @@ The group project will be judged collectively - you do not need to say who did w
 
 ### The Use of Generative AI
 
-TBD
+There are many natural language processing tools available, which can be used to generate good code efficiently. We recognize the importance of using generative AI as a tool for assisting you with your tasks, so the use of AI is **allowed** in this course. Students *must* disclose the use of AI in their work, and summarize the prompt used and the response of AI, especially if mistakes are identified in their output. Students are expected to take responsibility of their work, i.e. to explain the thought process behind the completed works. We want you to develop skills and knowledge that are important to discover and practice on your own. 
 
-<!-- There are many natural language processing tools available, which can be used to generate good code efficiently. In this course, however, we will be developing skills and knowledge that are important to discover and practice on your own. Because use of AI tools inhibits development of these skills and knowledge, students are not allowed to use any AI tools, such as ChatGPT or DallE 2, in this course. Students are expected to present work that is their own without assistance from automated tools. If you are unclear if something is an AI tool, please check with your instructor. Using AI tools for any purposes in this course will violate the [University’s academic integrity policy](https://studentmanual.uchicago.edu/academic-policies/academic-honesty-plagiarism/) and be treated as such.  -->
+Using AI tools for any purposes in this course without proper acknowledgement will violate the [University’s academic integrity policy](https://studentmanual.uchicago.edu/academic-policies/academic-honesty-plagiarism/) and be treated as such.
 
 ## Textbook & Readings
 
