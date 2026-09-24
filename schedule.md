@@ -239,15 +239,28 @@ No class
 0. Introduction to Fourier methods
 1. [Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/functions/bvp) -->
 
-## Project
 
-Groups finalized 10/20.
 
-Project proposal due 11/5.
+## Week 10 - 12/01
+### Presentation
 
-Midterm checkpoint due 11/19.
 
-Final Project report due 12/11.
+## Week 10 - 12/03
+### Presentation
+
+
+## Project timeline
+
+Groups finalized: 10/20.
+
+Project proposal: 11/5.
+
+Midterm checkpoint: 11/19.
+
+Presentation: 12/01 and 12/03
+
+Final written project report due: 12/11
+
 
 ## Finals Period
 
