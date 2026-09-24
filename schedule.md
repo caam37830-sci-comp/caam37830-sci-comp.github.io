@@ -6,18 +6,19 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 <!-- Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/schedule_f2021.md) [Winter 2022](archive/schedule_w2022.md) [Fall 2023](archive/schedule_f2023.md) [Fall 2024](archive/schedule_f2024.md) -->
 
-## System Setup
+## Week 0 - System Setup
 0. [Basic Bash](https://caam37830-sci-comp.github.io/notes/computing/basic-bash)
 1. [Install Anaconda Python](https://caam37830-sci-comp.github.io/notes/python/conda)
 2. [Install Jupyter notebooks](https://caam37830-sci-comp.github.io/notes/python/jupyter)
 3. [Using Python](https://caam37830-sci-comp.github.io/notes/python/using-python)
    
-## Day 00 - 09/29
+## Week 1 - 09/29
 ### Class Material
 [Intro Slides](https://caam37830-sci-comp.github.io/files/Course_intro_2026.key)
 
-0. [Python Scripts](https://caam37830-sci-comp.github.io/notes/python/using-python#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
-1. [Python Basics](https://caam37830-sci-comp.github.io/notes/python/basics)
+1. [Python Scripts](https://caam37830-sci-comp.github.io/notes/python/using-python#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
+
+2. [Python Basics](https://caam37830-sci-comp.github.io/notes/python/basics)
 
 3. [Basic Containers and Packages](https://caam37830-sci-comp.github.io/notes/python/basic-packages)
 
@@ -28,7 +29,6 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [PEP 0008 - Style Guide](https://www.python.org/dev/peps/pep-0008) (just skim and read anything interesting) **Required**
 * [Array Programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2) by Harris, et al. **Recommended**
 * [Top-10 Algorithms of the 20th Century](https://archive.siam.org/pdf/news/637.pdf) by B. Cipra. **Recommended** for those interested in the culture of scientific computing.
-  
 
 <!-- ## Day 01 - 10/02
 ### Homework
