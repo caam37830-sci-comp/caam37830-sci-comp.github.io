@@ -16,7 +16,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 ### Class Material
 [Intro Slides](https://caam37830-sci-comp.github.io/files/Course_intro_2026.key)
 
-1. [Python Scripts](https://caam37830-sci-comp.github.io/notes/python/using-python#python-scripts)  [[Example Script](https://github.com/uchi-compy23/materials/blob/master/lectures/01/script.py)] [[Download Example](https://raw.githubusercontent.com/uchi-compy23/materials/master/lectures/01/script.py)]
+1. [Python Scripts](https://caam37830-sci-comp.github.io/notes/python/using-python#python-scripts)  [[Example Script](https://caam37830-sci-comp.github.io/files/script.py)] 
 
 2. [Python Basics](https://caam37830-sci-comp.github.io/notes/python/basics)
 

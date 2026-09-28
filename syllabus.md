@@ -34,7 +34,7 @@ You will need
 
 We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have Windows on your computer please download [Windows Subsystem Linux](https://docs.microsoft.com/en-us/windows/wsl/).
 
-In addition to a University of Chicago account, you'll need to create a [GitHub](https://github.com/) account as assignments will be distributed through GitHub classroom.  Any work you do will be kept in private repositories.  If you want, you can create a "burner" account that isn't associated with your primary account (if you already have one).
+In addition to a University of Chicago account, you'll need to create a [GitHub](https://github.com/) account as assignments will be distributed through [Classroom50](https://classroom50.org/) (GitHub accoount needed).  Any work you do will be kept in private repositories.  If you want, you can create a "burner" account that isn't associated with your primary account (if you already have one).
 
 ## Evaluation
 
@@ -42,7 +42,7 @@ In addition to a University of Chicago account, you'll need to create a [GitHub]
 * In-class quizzes (20% of final grade, around 4)
 * Group project: proposal (5% of final grade)
 * Group project: midterm checkpoint (10% of final grade)
-* Group project: discussion (20% of final grade)
+* Group project: presentation (20% of final grade)
 * Group project: final written report (20% of final grade)
 * Teammate evaluations (5% of final grade)
 
