@@ -14,7 +14,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
    
 ## Week 1 - 09/29
 ### Class Material
-[Intro Slides](https://caam37830-sci-comp.github.io/files/Course_intro_2026.key)
+0. [Intro Slides](https://caam37830-sci-comp.github.io/files/Course_intro_2026.key)
 
 1. [Python Scripts](https://caam37830-sci-comp.github.io/notes/python/using-python#python-scripts)  [[Example Script](https://caam37830-sci-comp.github.io/files/script.py)] 
 
@@ -30,7 +30,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [Array Programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2) by Harris, et al. **Recommended**
 * [Top-10 Algorithms of the 20th Century](https://archive.siam.org/pdf/news/637.pdf) by B. Cipra. **Recommended** for those interested in the culture of scientific computing.
 
-<!-- ## Day 01 - 10/02
+## Week 1 - 10/01
 ### Homework
 * Homework 0 released.
 * See the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control.
@@ -51,7 +51,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 
 
-## Day 02 - 10/07
+<!-- ## Day 02 - 10/07
 ### Class Material
 0. [Decorators](https://caam37830-sci-comp.github.io/notes/python/decorators)
 1. [Vectorization, numpy ufuncs, numba](https://caam37830-sci-comp.github.io/notes/computing/performance/numpy-ufuncs)
@@ -253,7 +253,7 @@ No class
 
 Groups finalized: 10/20.
 
-Project proposal: 11/5.
+Project proposal: 11/05.
 
 Midterm checkpoint: 11/19.
 
@@ -264,4 +264,4 @@ Final written project report due: 12/11
 
 ## Finals Period
 
-College reading period is 12/5-12/7
+College reading period is 12/05-12/07
