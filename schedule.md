@@ -7,20 +7,16 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 <!-- Schedule Archives: [Fall 2020](archive/schedule_f2020.md) [Fall 2021](archive/schedule_f2021.md) [Winter 2022](archive/schedule_w2022.md) [Fall 2023](archive/schedule_f2023.md) [Fall 2024](archive/schedule_f2024.md) -->
 
 ## Week 0 - System Setup
-0. [Basic Bash](https://caam37830-sci-comp.github.io/notes/computing/basic-bash)
-1. [Install Anaconda Python](https://caam37830-sci-comp.github.io/notes/python/conda)
-2. [Install Jupyter notebooks](https://caam37830-sci-comp.github.io/notes/python/jupyter)
-3. [Using Python](https://caam37830-sci-comp.github.io/notes/python/using-python)
+- [A.1 Basic Bash](https://caam37830-sci-comp.github.io/notes/computing/basic-bash)
+- [1.1 Install Anaconda Python](https://caam37830-sci-comp.github.io/notes/python/conda)
+- [1.2 Install Jupyter notebooks](https://caam37830-sci-comp.github.io/notes/python/jupyter)
+- [1.3 Using Python](https://caam37830-sci-comp.github.io/notes/python/using-python)
    
 ## Week 1 - 09/29
 ### Class Material
-0. [Intro Slides](https://caam37830-sci-comp.github.io/files/Course_intro_2026.key)
-
-1. [Python Scripts](https://caam37830-sci-comp.github.io/notes/python/using-python#python-scripts)  [[Example Script](https://caam37830-sci-comp.github.io/files/script.py)] 
-
-2. [Python Basics](https://caam37830-sci-comp.github.io/notes/python/basics)
-
-3. [Basic Containers and Packages](https://caam37830-sci-comp.github.io/notes/python/basic-packages)
+- [Intro Slides](https://caam37830-sci-comp.github.io/files/Course_intro_2026.key)
+- [1.4 Python Basics](https://caam37830-sci-comp.github.io/notes/python/basics)
+- [1.6 Basic Containers and Packages](https://caam37830-sci-comp.github.io/notes/python/basic-packages)
 
 ### Reading
 
@@ -37,10 +33,10 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 ### Class Material
 
-0. [Functions in Python](https://caam37830-sci-comp.github.io/notes/python/functions)
-1. [Recursion](https://caam37830-sci-comp.github.io/notes/analysis/recursion)
-2. [Bits, Bytes, and Numbers](https://caam37830-sci-comp.github.io/notes/python/bitsbytes)
-3. [Asymptotic notation](https://caam37830-sci-comp.github.io/notes/analysis/asymptotic-notation)
+- [1.5 Bits, Bytes, and Numbers](https://caam37830-sci-comp.github.io/notes/python/bitsbytes)
+- [1.7 Functions in Python](https://caam37830-sci-comp.github.io/notes/python/functions)
+- [2.1 Asymptotic notation](https://caam37830-sci-comp.github.io/notes/analysis/asymptotic-notation)
+- [2.2 Recursion](https://caam37830-sci-comp.github.io/notes/analysis/recursion)
 
 
 ### Reading
