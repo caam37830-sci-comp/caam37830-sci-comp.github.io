@@ -28,8 +28,9 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 ## Week 1 - 10/01
 ### Homework
-* Homework 0 released.
+* [Homework 0](https://canvas.uchicago.edu/courses/74716/assignments/912079) released.
 * See the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control.
+* See [A.1 Basic Bash](https://caam37830-sci-comp.github.io/notes/computing/basic-bash) for basic controls in Terminal.
 
 ### Class Material
 
