@@ -236,13 +236,13 @@ No class
 1. [Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/functions/bvp) -->
 
 
-
 ## Week 10 - 12/01
-### Presentation
+Quiz 4
+Presentation
 
 
 ## Week 10 - 12/03
-### Presentation
+Presentation
 
 
 ## Project timeline
