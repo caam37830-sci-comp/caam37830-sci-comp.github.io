@@ -236,8 +236,22 @@ No class
 1. [Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/functions/bvp) -->
 
 
+## Week 3 - 10/13
+Quiz 1
+
+## Week 5 - 10/27
+Quiz 2
+
+## Week 7 - 11/10
+Quiz 3
+
+## Week 9 - 11/23-27
+Thanksgiving break.
+
+
 ## Week 10 - 12/01
 Quiz 4
+
 Presentation
 
 
