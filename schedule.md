@@ -261,11 +261,11 @@ Presentation
 
 ## Project timeline
 
-Groups finalized: 10/20.
+Groups finalized: 10/15.
 
-Project proposal: 11/05.
+Project proposal: 10/30.
 
-Midterm checkpoint: 11/19.
+Midterm checkpoint: 11/13.
 
 Presentation: 12/01 and 12/03
 
