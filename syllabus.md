@@ -8,7 +8,8 @@ Instructor:  [Tianyu Kong](https://timkong98.github.io/) (tianyuk@uchicago.edu).
 TA: Tina Wang (jw2181@uchicago.edu) and Angela Wang (aawang@uchicago.edu)
 
 Office Hours:
-* Tianyu: Thursdays 2-3 pm, location TBD.
+* Tianyu: Thursdays 2-3pm, location TBD.
+* Tina: Tuesdays 3-4pm, Jones 226.
 * Angela: Tuesdays 4-5pm on Zoom (493 699 2369).
  
 
