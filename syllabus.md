@@ -5,9 +5,12 @@ Course number: CAAM 37830=STAT 37830
 ## People
 Instructor:  [Tianyu Kong](https://timkong98.github.io/) (tianyuk@uchicago.edu). William H. Kruskal Instructor in the CCAM (Committee on Computational and Applied Mathematics). 
 
-OH: TBD.
-
 TA: Tina Wang (jw2181@uchicago.edu) and Angela Wang (aawang@uchicago.edu)
+
+Office Hours:
+* Tianyu: Thursdays 2-3 pm, location TBD.
+* Angela: Tuesdays 4-5pm on Zoom (493 699 2369).
+ 
 
 
 ## Course Format
