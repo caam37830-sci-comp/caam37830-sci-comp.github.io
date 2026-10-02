@@ -47,17 +47,19 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
 
 
-
-<!-- ## Day 02 - 10/07
+## Week 2 - 10/06
 ### Class Material
-0. [Decorators](https://caam37830-sci-comp.github.io/notes/python/decorators)
-1. [Vectorization, numpy ufuncs, numba](https://caam37830-sci-comp.github.io/notes/computing/performance/numpy-ufuncs)
-2. [Memory layout](https://caam37830-sci-comp.github.io/notes/linear-algebra/memory)
-3. [Python Objects, OOP](https://caam37830-sci-comp.github.io/notes/python/classes)
+* [1.8 Python Objects, OOP](https://caam37830-sci-comp.github.io/notes/python/classes)
+* [1.10 Decorators](https://caam37830-sci-comp.github.io/notes/python/decorators)
+* [3.1 Memory and performance](https://caam37830-sci-comp.github.io/notes/linear-algebra/memory)
 
 ### Reading
 * [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 
+
+<!--
 
 ## Day 03 - 10/09
 ### Homework
@@ -78,9 +80,6 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
 * [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
 
-  
-* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
-* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 
 
 ## Day 04 - 10/14
