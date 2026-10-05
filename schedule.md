@@ -61,14 +61,13 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 <!--
 
-## Day 03 - 10/09
+## Week 2 - 10/08
 ### Homework
-* Homework 0 due.
-* Homework 1 released.
+* Homework 0 due
+* Homework 1 released
 
 ### Class Material
-0. [Python Objects, OOP](https://caam37830-sci-comp.github.io/notes/python/classes) (continued)
-1. [Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+* [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
 
 ### Reading
 
@@ -77,49 +76,57 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
 
+* [3.3 SciPy BLAS and LAPACK Interfaces](https://caam37830-sci-comp.github.io/notes/linear-algebra/blas-lapack) ** Optional**)
 * [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
 * [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
 
 
 
-## Day 04 - 10/14
-### Class Material
+## Week 3 - 10/13
+Quiz 1
 
-0. [Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) (Continued)
-1. [SciPy BLAS and LAPACK Interfaces](https://caam37830-sci-comp.github.io/notes/linear-algebra/blas-lapack)
-2. [Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository](https://github.com/UChi-ComPy23/notes/tree/master/00_python/mypack)
-3. [Convergence of Algorithms](https://caam37830-sci-comp.github.io/notes/analysis/convergence)
-4. [Root Finding](https://caam37830-sci-comp.github.io/notes/functions/roots)
+### Class Material
+* [1.9 Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository](https://github.com/UChi-ComPy23/notes/tree/master/00_python/mypack)
+* [3.4 Sparse Matrices](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse)
+* [3.5 Sparse Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse-linalg)
+
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+
+
+
+## Week 3 - 10/15
+### Homework
+* Homework 1 due
+* Group preference due
+* Homework 2 released
+
+### Class Material
+* [2.3 Convergence of Algorithms](https://caam37830-sci-comp.github.io/notes/analysis/convergence)
+* [5.1 Root Finding](https://caam37830-sci-comp.github.io/notes/functions/roots)
      
+
 ### Reading
 
-* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
 * [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
 
 
 
-## Day 05 - 10/16
-### Class Material
-0. [Linear operators](https://caam37830-sci-comp.github.io/notes/linear-algebra/linearoperators)
-1. [Sparse matrix formats, `scipy.sparse`](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse)
-2. [Sparse Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse-linalg)
-
-### Reading
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
+TK: updated up to here
 
 
-## Day 06 - 10/21
+## Week 4 - 10/20
 
 ### Class material
-0. [Sparse Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse-linalg) (Continued)
 1. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb)
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
 
 
-## Day 07 - 10/23
+## Week 4 - 10/22
 ### Homework
 * Homework 2 due
 * Homework 3 released
@@ -135,7 +142,9 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
 
-## Day 08 - 10/28
+
+## Week 5 - 10/27
+Quiz 2
 
 ### Class material
 0. [More on Plotting](https://caam37830-sci-comp.github.io/notes/python/pyplot)
@@ -151,18 +160,15 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
 
-
-
-## Day 09 - 10/30
+## Week 5 - 10/29
 ### Homework
 * Homework 3 due
+* Project proposal due tomorrow
 * Homework 4 released
-
 
 ### Class material
 0. [Integration, Quadrature](https://caam37830-sci-comp.github.io/notes/functions/integration)
 1. [Python Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators)
-
 
 
 ## Reading
@@ -170,7 +176,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
 
 
-## Day 10 - 11/04
+## Week 6 - 11/03
 ### Homework
 * Project proposal due
   
@@ -179,7 +185,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 1. [Agent-based modeling](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
 
 
-## Day 11 - 11/06
+## Week 6 - 11/05
 ### Homework
 * Homework 4 due
 * Homework 5 released
@@ -188,17 +194,21 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 0. [Optimization](https://caam37830-sci-comp.github.io/notes/optimization/scipy-opt)
 1. [Pandas](https://caam37830-sci-comp.github.io/notes/data/pandas)
 
-## Day 12 - 11/11
+
+## Week 7 - 11/10
+Quiz 3
+
+### Class Material
 0. [Scikit Learn](https://caam37830-sci-comp.github.io/notes/data/sklearn)
 1. [Distances](https://caam37830-sci-comp.github.io/notes/geometry/distances)
 2. [Nearest Neighbor Queries](https://caam37830-sci-comp.github.io/notes/geometry/nearestneighbor)
 
 
 
-
-## Day 13 - 11/13
+## Week 7 - 11/12
 ### Homework
 * Homework 5 due
+* Project midterm checkpoint due tomorrow
 * Homework 6 released
   
 ### Class Material
@@ -209,16 +219,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 4. [Scipy distributions](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats)
  
 
-## Day 14 - 11/18
-
-No class
-
-
-## Day 15 - 11/20
-### Homework
-* Homework 6 due
-* Homework 7 released
-* Project checkpoint due
+## Week 8 - 11/17
 
 ### Class material
 0. [Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
@@ -226,14 +227,34 @@ No class
 
 
 
-## Day 16 - 12/05
+## Week 8 - 11/19
+### Homework
+* Homework 6 due
+* Homework 7 released
+* Project checkpoint due
+
+### Class Material
+1. [Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/functions/bvp) 
+
+
+## Week 9 - 11/23-27
+Thanksgiving break.
+
+
+## Week 10 - 12/01
+Quiz 4
+
+Presentation
+
+
+## Week 10 - 12/03
 ### Homework
 * Homework 7 due
-* Homework review
 
-### Class material
-0. Introduction to Fourier methods
-1. [Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/functions/bvp) -->
+Presentation
+
+-->
+
 
 
 ## Week 3 - 10/13
@@ -274,4 +295,4 @@ Final written project report due: 12/11
 
 ## Finals Period
 
-College reading period is 12/05-12/07
+College reading period is 12/05 - 12/07
