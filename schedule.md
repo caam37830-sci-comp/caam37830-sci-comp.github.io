@@ -60,7 +60,6 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
 * [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 
-
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
@@ -80,7 +79,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 
 ### Reading
-* [3.3 SciPy BLAS and LAPACK Interfaces](https://caam37830-sci-comp.github.io/notes/linear-algebra/blas-lapack) ** Optional**)
+* [3.3 SciPy BLAS and LAPACK Interfaces](https://caam37830-sci-comp.github.io/notes/linear-algebra/blas-lapack) **Optional**
 * [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
 * [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
