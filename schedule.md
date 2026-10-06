@@ -52,6 +52,8 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [1.8 Python Objects, OOP](https://caam37830-sci-comp.github.io/notes/python/classes)
 * [1.10 Decorators](https://caam37830-sci-comp.github.io/notes/python/decorators)
 * [3.1 Memory and performance](https://caam37830-sci-comp.github.io/notes/linear-algebra/memory)
+* [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+
 
 ### Reading
 * [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
@@ -59,7 +61,12 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 
 
-<!--
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
+
+
 
 ## Week 2 - 10/08
 ### Homework
@@ -67,18 +74,18 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * Homework 1 released
 
 ### Class Material
-* [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+* [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) continued
+* [3.4 Sparse Matrices](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse)
+* [3.5 Sparse Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse-linalg)
+
 
 ### Reading
-
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
-
 * [3.3 SciPy BLAS and LAPACK Interfaces](https://caam37830-sci-comp.github.io/notes/linear-algebra/blas-lapack) ** Optional**)
 * [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
 * [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
+
+<!--
 
 
 
@@ -92,7 +99,6 @@ Quiz 1
 
 
 ### Reading
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 * [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
 
 
