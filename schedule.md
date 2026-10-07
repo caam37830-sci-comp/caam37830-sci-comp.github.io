@@ -52,7 +52,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [1.8 Python Objects, OOP](https://caam37830-sci-comp.github.io/notes/python/classes)
 * [1.10 Decorators](https://caam37830-sci-comp.github.io/notes/python/decorators)
 * [3.1 Memory and performance](https://caam37830-sci-comp.github.io/notes/linear-algebra/memory)
-* [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
+* [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) 
 
 
 ### Reading
@@ -73,7 +73,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * Homework 1 released
 
 ### Class Material
-* [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) continued
+* [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) continued. If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
 * [3.4 Sparse Matrices](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse)
 * [3.5 Sparse Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse-linalg)
 
@@ -93,12 +93,12 @@ Quiz 1
 
 ### Class Material
 * [1.9 Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository](https://github.com/UChi-ComPy23/notes/tree/master/00_python/mypack)
-* [3.4 Sparse Matrices](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse)
-* [3.5 Sparse Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/sparse-linalg)
-
+* [2.3 Convergence of Algorithms](https://caam37830-sci-comp.github.io/notes/analysis/convergence)
+* [5.1 Root Finding](https://caam37830-sci-comp.github.io/notes/functions/roots)
 
 ### Reading
 * [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
 
 
 
@@ -108,22 +108,6 @@ Quiz 1
 * Group preference due
 * Homework 2 released
 
-### Class Material
-* [2.3 Convergence of Algorithms](https://caam37830-sci-comp.github.io/notes/analysis/convergence)
-* [5.1 Root Finding](https://caam37830-sci-comp.github.io/notes/functions/roots)
-     
-
-### Reading
-
-* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
-
-
-
-TK: updated up to here
-
-
-## Week 4 - 10/20
-
 ### Class material
 1. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb)
 
@@ -131,11 +115,12 @@ TK: updated up to here
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
 
 
-## Week 4 - 10/22
-### Homework
-* Homework 2 due
-* Homework 3 released
 
+
+TK: updated up to here
+
+
+## Week 4 - 10/20
 ### Class material
 0. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb) (Continued
 1. [Initial Value Problems](https://caam37830-sci-comp.github.io/notes/functions/ode-initial)
@@ -146,6 +131,15 @@ TK: updated up to here
 * [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
+
+
+
+## Week 4 - 10/22
+### Homework
+* Homework 2 due
+* Homework 3 released
+
+
 
 
 ## Week 5 - 10/27
