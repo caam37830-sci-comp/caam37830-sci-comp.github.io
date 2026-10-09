@@ -91,7 +91,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 Quiz 1
 
 ### Class Material
-* [1.9 Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository](https://github.com/caam37830-sci-comp/notes/00_python/mypack)
+* [1.9 Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository]](https://github.com/caam37830-sci-comp/notes/tree/main/00_python/mypack)
 * [2.3 Convergence of Algorithms](https://caam37830-sci-comp.github.io/notes/analysis/convergence)
 * [5.1 Root Finding](https://caam37830-sci-comp.github.io/notes/functions/roots)
 
@@ -253,11 +253,6 @@ Presentation
 Presentation
 
 -->
-
-
-
-## Week 3 - 10/13
-Quiz 1
 
 ## Week 5 - 10/27
 Quiz 2
