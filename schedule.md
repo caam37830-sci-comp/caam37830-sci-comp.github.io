@@ -84,7 +84,6 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
 
-<!--
 
 
 
@@ -92,7 +91,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 Quiz 1
 
 ### Class Material
-* [1.9 Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository](https://github.com/UChi-ComPy23/notes/tree/master/00_python/mypack)
+* [1.9 Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository](https://github.com/caam37830-sci-comp/notes/00_python/mypack)
 * [2.3 Convergence of Algorithms](https://caam37830-sci-comp.github.io/notes/analysis/convergence)
 * [5.1 Root Finding](https://caam37830-sci-comp.github.io/notes/functions/roots)
 
@@ -101,6 +100,7 @@ Quiz 1
 * [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
 
 
+<!--
 
 ## Week 3 - 10/15
 ### Homework
