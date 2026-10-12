@@ -70,7 +70,7 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 ## Week 2 - 10/08
 ### Homework
 * Homework 0 due
-* Homework 1 released
+* [Homework 1](https://canvas.uchicago.edu/courses/74716/assignments/918507) released, [see here](https://classroom50.org/caam37830-fall-2026/scientific-computing-with-python/assignments/homework-1/accept)
 
 ### Class Material
 * [3.2 Dense Linear Algebra](https://caam37830-sci-comp.github.io/notes/linear-algebra/numpy-scipy-linalg) continued. If you don't have much prior experience with matrix factorizations, it is highly recommended to go through the exercises in the notebook.
@@ -88,7 +88,8 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 
 
 ## Week 3 - 10/13
-Quiz 1
+
+Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to write code, but you may need to understand sample code and identify potential errors.
 
 ### Class Material
 * [1.9 Modules and Packages](https://caam37830-sci-comp.github.io/notes/python/modules) [[GitHub repository]](https://github.com/caam37830-sci-comp/notes/tree/main/00_python/mypack)
@@ -109,28 +110,34 @@ Quiz 1
 * Homework 2 released
 
 ### Class material
-1. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb)
+
+* [5.2 Interpolation](https://caam37830-sci-comp.github.io/notes/functions/interpolation)
+* [5.3 Differentiation](https://caam37830-sci-comp.github.io/notes/functions/differentiation)
 
 ### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
 
+* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/tutorial/interpolate.html) **Recommended**
 
-
-
-TK: updated up to here
 
 
 ## Week 4 - 10/20
 ### Class material
-0. [Differentiation](https://uchi-compy23.github.io/files/differentiation.ipynb) (Continued
-1. [Initial Value Problems](https://caam37830-sci-comp.github.io/notes/functions/ode-initial)
-2. [Unit testing](https://caam37830-sci-comp.github.io/notes/computing/unittest)
-3. [Sympy](https://caam37830-sci-comp.github.io/notes/functions/sympy)
+
+* [5.4 Integration](https://caam37830-sci-comp.github.io/notes/functions/integration)
+* [5.5 Sympy](https://caam37830-sci-comp.github.io/notes/functions/sympy)
+* [6.1 Initial Value Problems](https://caam37830-sci-comp.github.io/notes/differential-equations/ode-initial)
    
 ### Reading
-* [`unittest` documentation](https://docs.python.org/3.8/library/unittest.html) **Required** at least skim it to see what is in there.
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111 - 123 (Integration) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
+
+* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
+
+
+TK: updated up to here
 
 
 
@@ -139,6 +146,16 @@ TK: updated up to here
 * Homework 2 due
 * Homework 3 released
 
+### Class material
+* [6.2 ODE Solvers: Accuracy, Stability, and Stiffness](https://caam37830-sci-comp.github.io/notes/differential-equations/ode-solvers)
+* [A.4 Unit Testing](https://caam37830-sci-comp.github.io/notes/computing/unittest)
+
+
+### Reading
+* [`unittest` documentation](https://docs.python.org/3/library/unittest.html) **Required** at least skim it to see what is in there.
+* [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html), the descriptions of the `method` options **Required**
+* [Finite Difference Methods for Ordinary and Partial Differential Equations](https://doi.org/10.1137/1.9780898717839) by R. LeVeque, Ch. 5 - 8 (accuracy, stability, stiffness) **Recommended**
+* [Ordinary Differential Equations](https://oist.github.io/iSciComp/06_ODE.html) from the OIST iSciComp course **Optional**
 
 
 
@@ -146,17 +163,14 @@ TK: updated up to here
 Quiz 2
 
 ### Class material
-0. [More on Plotting](https://caam37830-sci-comp.github.io/notes/python/pyplot)
-1. [Interpolation](https://caam37830-sci-comp.github.io/notes/functions/interpolation)
-
+* [6.3 Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/differential-equations/bvp)
+* [6.4 Time-Dependent PDEs](https://caam37830-sci-comp.github.io/notes/differential-equations/pde-time-evolution)
 
 ### Reading
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
-* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
-* [PyPlot Use FAQ](https://matplotlib.org/faq/usage_faq.html) **Required** (first half)
-* [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look around
-* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
-* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
+* [SciPy `solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
+* [Finite Difference Methods for Ordinary and Partial Differential Equations](https://doi.org/10.1137/1.9780898717839) by R. LeVeque, Ch. 2 (boundary value problems) and Ch. 9 (diffusion equations) **Recommended**
+* [Partial Differential Equations](https://oist.github.io/iSciComp/07_PDE.html) from the OIST iSciComp course **Optional**
+
 
 
 ## Week 5 - 10/29
@@ -166,22 +180,27 @@ Quiz 2
 * Homework 4 released
 
 ### Class material
-0. [Integration, Quadrature](https://caam37830-sci-comp.github.io/notes/functions/integration)
-1. [Python Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators)
+* [3.7 Convolutions and Fourier Transforms](https://caam37830-sci-comp.github.io/notes/linear-algebra/convolutions) (review of the FFT)
+* [6.5 Spectral Methods](https://caam37830-sci-comp.github.io/notes/differential-equations/spectral-methods)
 
 
-## Reading
-* [Python Tutorial on Iterators](https://docs.python.org/3/tutorial/classes.html#iterators) **Required**
-* [Python Tutorial on Generators](https://docs.python.org/3/tutorial/classes.html#generators) **Required**
+### Reading
+* [SciPy FFT tutorial](https://docs.scipy.org/doc/scipy/tutorial/fft.html) **Required**
+* [Spectral Methods in MATLAB](https://doi.org/10.1137/1.9780898719598) by L. N. Trefethen, Ch. 1, 3, 4 and 10 **Recommended** (the programs translate to NumPy almost line by line)
+* [Finite Difference Methods for Ordinary and Partial Differential Equations](https://doi.org/10.1137/1.9780898717839) by R. LeVeque, Ch. 10 (advection, numerical diffusion and dispersion) **Optional**
+* [An Algorithm for the Machine Calculation of Complex Fourier Series](https://doi.org/10.1090/S0025-5718-1965-0178586-1) by J. Cooley and J. Tukey, the original FFT paper **Optional**
+
 
 
 ## Week 6 - 11/03
-### Homework
-* Project proposal due
-  
 ### Class material
-0. Condition numbers
-1. [Agent-based modeling](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
+* [4.1 Optimization in SciPy](https://caam37830-sci-comp.github.io/notes/optimization/scipy-opt)
+
+### Reading
+* [SciPy optimization tutorial](https://docs.scipy.org/doc/scipy/tutorial/optimize.html) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) Ch. 4 (Nonlinear Equations and Optimization) **Recommended**
+* [Optimization](https://oist.github.io/iSciComp/08_Optimization.html) from the OIST iSciComp course **Optional**
+
 
 
 ## Week 6 - 11/05
@@ -190,17 +209,27 @@ Quiz 2
 * Homework 5 released
 
 ### Class material
-0. [Optimization](https://caam37830-sci-comp.github.io/notes/optimization/scipy-opt)
-1. [Pandas](https://caam37830-sci-comp.github.io/notes/data/pandas)
+* [4.2 Optimization Algorithms](https://caam37830-sci-comp.github.io/notes/optimization/optimization-algorithms)
+
+### Reading
+* [Numerical Optimization](https://link.springer.com/book/10.1007/978-0-387-40065-5) by J. Nocedal and S. Wright, Ch. 2 - 3 (line search methods), Ch. 6 (quasi-Newton methods), and Ch. 10 (least squares) **Recommended**
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) by S. Boyd and L. Vandenberghe, Ch. 9 (unconstrained minimization) **Optional**
+
 
 
 ## Week 7 - 11/10
 Quiz 3
 
 ### Class Material
-0. [Scikit Learn](https://caam37830-sci-comp.github.io/notes/data/sklearn)
-1. [Distances](https://caam37830-sci-comp.github.io/notes/geometry/distances)
-2. [Nearest Neighbor Queries](https://caam37830-sci-comp.github.io/notes/geometry/nearestneighbor)
+* [8.1 Generating Random Numbers](https://caam37830-sci-comp.github.io/notes/probability-statistics/generating-random)
+* [8.2 SciPy stats](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats)
+* [8.3 Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
+
+### Reading
+* [NumPy random `Generator`](https://numpy.org/doc/stable/reference/random/generator.html) **Required**
+* [1.11 Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators) **Required** (used in Homework 6)
+* [SciPy statistics tutorial](https://docs.scipy.org/doc/scipy/tutorial/stats.html) **Recommended**
+* [Stochastic Methods](https://oist.github.io/iSciComp/09_Stochastic.html) from the OIST iSciComp course (rejection sampling, importance sampling, MCMC) **Optional**
 
 
 
@@ -209,20 +238,29 @@ Quiz 3
 * Homework 5 due
 * Project midterm checkpoint due tomorrow
 * Homework 6 released
-  
+
 ### Class Material
-0. [Nearest Neighbor Queries](https://caam37830-sci-comp.github.io/notes/geometry/nearestneighbor) (continued)
-1. [Dimensionality Reduction, Plotly](https://caam37830-sci-comp.github.io/notes/data/dimension-reduction)
-2. [Linear Algebra in PyTorch](https://caam37830-sci-comp.github.io/notes/linear-algebra/pytorch)
-3. [Basic Neural Networks in PyTorch](https://caam37830-sci-comp.github.io/notes/data/pytorch)
-4. [Scipy distributions](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats)
- 
+* [8.4 Stochastic Simulation](https://caam37830-sci-comp.github.io/notes/probability-statistics/stochastic-simulation)
+* [A.7 Agent-Based Models](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
+
+### Reading
+* [An Algorithmic Introduction to Numerical Simulation of Stochastic Differential Equations](https://doi.org/10.1137/S0036144500378302) by D. Higham **Recommended**
+* [Exact Stochastic Simulation of Coupled Chemical Reactions](https://doi.org/10.1021/j100540a008) by D. Gillespie **Optional**
+
+
 
 ## Week 8 - 11/17
 
 ### Class material
-0. [Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
-1. Introduction to Fourier methods
+* [9.1 Pandas](https://caam37830-sci-comp.github.io/notes/data/pandas)
+* [9.3 Scikit Learn](https://caam37830-sci-comp.github.io/notes/data/sklearn)
+* [9.2 Dimension Reduction and Data Visualization](https://caam37830-sci-comp.github.io/notes/data/dimension-reduction)
+
+### Reading
+* [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html) **Required**
+* [scikit-learn: Getting Started](https://scikit-learn.org/stable/getting_started.html) **Required**
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by J. VanderPlas, Ch. 3 (pandas) and Ch. 5 (machine learning) **Recommended**
+* [CME 193](https://web.stanford.edu/class/cme193/syllabus.html) at Stanford, lectures 5 and 7 (pandas, scikit-learn) **Optional**
 
 
 
@@ -230,10 +268,17 @@ Quiz 3
 ### Homework
 * Homework 6 due
 * Homework 7 released
-* Project checkpoint due
 
 ### Class Material
-1. [Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/functions/bvp) 
+* [3.8 Linear Algebra in PyTorch](https://caam37830-sci-comp.github.io/notes/linear-algebra/pytorch)
+* [9.4 PyTorch Neural Networks](https://caam37830-sci-comp.github.io/notes/data/pytorch)
+* [9.5 Scientific Machine Learning with PyTorch](https://caam37830-sci-comp.github.io/notes/data/sciml-pytorch)
+
+### Reading
+* [PyTorch: Learn the Basics](https://pytorch.org/tutorials/beginner/basics/intro.html) **Required**
+* [CME 193](https://web.stanford.edu/class/cme193/syllabus.html) at Stanford, lecture 8 (deep learning with PyTorch) **Optional**
+* [Physics-Informed Machine Learning](https://doi.org/10.1038/s42254-021-00314-5) by G. Karniadakis et al. **Optional**
+
 
 
 ## Week 9 - 11/23-27
