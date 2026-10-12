@@ -168,7 +168,7 @@ Quiz 2
 
 ### Reading
 * [SciPy `solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
-* [Finite Difference Methods for Ordinary and Partial Differential Equations](https://doi.org/10.1137/1.9780898717839) by R. LeVeque, Ch. 2 (boundary value problems) and Ch. 9 (diffusion equations) **Recommended**
+* Finite Difference Methods for Ordinary and Partial Differential Equations by R. LeVeque, Ch. 2 (boundary value problems) and Ch. 9 (diffusion equations) **Recommended**
 * [Partial Differential Equations](https://oist.github.io/iSciComp/07_PDE.html) from the OIST iSciComp course **Optional**
 
 
@@ -186,8 +186,7 @@ Quiz 2
 
 ### Reading
 * [SciPy FFT tutorial](https://docs.scipy.org/doc/scipy/tutorial/fft.html) **Required**
-* [Spectral Methods in MATLAB](https://doi.org/10.1137/1.9780898719598) by L. N. Trefethen, Ch. 1, 3, 4 and 10 **Recommended** (the programs translate to NumPy almost line by line)
-* [Finite Difference Methods for Ordinary and Partial Differential Equations](https://doi.org/10.1137/1.9780898717839) by R. LeVeque, Ch. 10 (advection, numerical diffusion and dispersion) **Optional**
+* Finite Difference Methods for Ordinary and Partial Differential Equations by R. LeVeque, Ch. 10 (advection, numerical diffusion and dispersion) **Optional**
 * [An Algorithm for the Machine Calculation of Complex Fourier Series](https://doi.org/10.1090/S0025-5718-1965-0178586-1) by J. Cooley and J. Tukey, the original FFT paper **Optional**
 
 
@@ -199,7 +198,6 @@ Quiz 2
 ### Reading
 * [SciPy optimization tutorial](https://docs.scipy.org/doc/scipy/tutorial/optimize.html) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) Ch. 4 (Nonlinear Equations and Optimization) **Recommended**
-* [Optimization](https://oist.github.io/iSciComp/08_Optimization.html) from the OIST iSciComp course **Optional**
 
 
 
@@ -229,7 +227,6 @@ Quiz 3
 * [NumPy random `Generator`](https://numpy.org/doc/stable/reference/random/generator.html) **Required**
 * [1.11 Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators) **Required** (used in Homework 6)
 * [SciPy statistics tutorial](https://docs.scipy.org/doc/scipy/tutorial/stats.html) **Recommended**
-* [Stochastic Methods](https://oist.github.io/iSciComp/09_Stochastic.html) from the OIST iSciComp course (rejection sampling, importance sampling, MCMC) **Optional**
 
 
 
@@ -242,10 +239,6 @@ Quiz 3
 ### Class Material
 * [8.4 Stochastic Simulation](https://caam37830-sci-comp.github.io/notes/probability-statistics/stochastic-simulation)
 * [A.7 Agent-Based Models](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
-
-### Reading
-* [An Algorithmic Introduction to Numerical Simulation of Stochastic Differential Equations](https://doi.org/10.1137/S0036144500378302) by D. Higham **Recommended**
-* [Exact Stochastic Simulation of Coupled Chemical Reactions](https://doi.org/10.1021/j100540a008) by D. Gillespie **Optional**
 
 
 
@@ -260,7 +253,6 @@ Quiz 3
 * [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html) **Required**
 * [scikit-learn: Getting Started](https://scikit-learn.org/stable/getting_started.html) **Required**
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by J. VanderPlas, Ch. 3 (pandas) and Ch. 5 (machine learning) **Recommended**
-* [CME 193](https://web.stanford.edu/class/cme193/syllabus.html) at Stanford, lectures 5 and 7 (pandas, scikit-learn) **Optional**
 
 
 
@@ -276,9 +268,6 @@ Quiz 3
 
 ### Reading
 * [PyTorch: Learn the Basics](https://pytorch.org/tutorials/beginner/basics/intro.html) **Required**
-* [CME 193](https://web.stanford.edu/class/cme193/syllabus.html) at Stanford, lecture 8 (deep learning with PyTorch) **Optional**
-* [Physics-Informed Machine Learning](https://doi.org/10.1038/s42254-021-00314-5) by G. Karniadakis et al. **Optional**
-
 
 
 ## Week 9 - 11/23-27
