@@ -101,7 +101,6 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 * [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
 
 
-<!--
 
 ## Week 3 - 10/15
 ### Homework
@@ -117,9 +116,9 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
-
 * [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/tutorial/interpolate.html) **Recommended**
 
+<!--
 
 
 ## Week 4 - 10/20
@@ -147,7 +146,7 @@ TK: updated up to here
 * Homework 3 released
 
 ### Class material
-* [6.2 ODE Solvers: Accuracy, Stability, and Stiffness](https://caam37830-sci-comp.github.io/notes/differential-equations/ode-solvers)
+* [6.2 Accuracy, Stability, and Stiffness](https://caam37830-sci-comp.github.io/notes/differential-equations/ode-solvers)
 * [A.4 Unit Testing](https://caam37830-sci-comp.github.io/notes/computing/unittest)
 
 
@@ -155,12 +154,10 @@ TK: updated up to here
 * [`unittest` documentation](https://docs.python.org/3/library/unittest.html) **Required** at least skim it to see what is in there.
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html), the descriptions of the `method` options **Required**
 * [Finite Difference Methods for Ordinary and Partial Differential Equations](https://doi.org/10.1137/1.9780898717839) by R. LeVeque, Ch. 5 - 8 (accuracy, stability, stiffness) **Recommended**
-* [Ordinary Differential Equations](https://oist.github.io/iSciComp/06_ODE.html) from the OIST iSciComp course **Optional**
-
 
 
 ## Week 5 - 10/27
-Quiz 2
+Quiz 2: covers topics in Homework 1-2. 
 
 ### Class material
 * [6.3 Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/differential-equations/bvp)
