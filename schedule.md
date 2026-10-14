@@ -106,12 +106,14 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 ### Homework
 * Homework 1 due
 * Group preference due
-* Homework 2 released
+* [Homework 2](https://canvas.uchicago.edu/courses/74716/assignments/920527) released, [invitation link](https://classroom50.org/caam37830-fall-2026/scientific-computing-with-python/assignments/homework-2/acceptLinks)
 
 ### Class material
 
 * [5.2 Interpolation](https://caam37830-sci-comp.github.io/notes/functions/interpolation)
 * [5.3 Differentiation](https://caam37830-sci-comp.github.io/notes/functions/differentiation)
+* [5.5 Sympy](https://caam37830-sci-comp.github.io/notes/functions/sympy)
+
 
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
@@ -125,14 +127,12 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 ### Class material
 
 * [5.4 Integration](https://caam37830-sci-comp.github.io/notes/functions/integration)
-* [5.5 Sympy](https://caam37830-sci-comp.github.io/notes/functions/sympy)
 * [6.1 Initial Value Problems](https://caam37830-sci-comp.github.io/notes/differential-equations/ode-initial)
    
 ### Reading
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111 - 123 (Integration) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
-
 * [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
 
