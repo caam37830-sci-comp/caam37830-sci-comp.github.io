@@ -59,7 +59,6 @@ This course follows a Tuesday/Thursday schedule.  There is a section for each da
 * [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
 * [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
 * [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
-
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
@@ -119,6 +118,7 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
 * [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/tutorial/interpolate.html) **Recommended**
+* [Sympy Gotchas](https://docs.sympy.org/latest/tutorials/intro-tutorial/gotchas.html) **Recommended**
 
 <!--
 
@@ -135,8 +135,6 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
 * [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
-
-TK: updated up to here
 
 
 
