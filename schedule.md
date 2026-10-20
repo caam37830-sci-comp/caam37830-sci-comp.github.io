@@ -120,7 +120,6 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 * [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/tutorial/interpolate.html) **Recommended**
 * [Sympy Gotchas](https://docs.sympy.org/latest/tutorials/intro-tutorial/gotchas.html) **Recommended**
 
-<!--
 
 
 ## Week 4 - 10/20
@@ -136,6 +135,7 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 * [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
 
+<!--
 
 
 ## Week 4 - 10/22
