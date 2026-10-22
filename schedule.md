@@ -155,11 +155,13 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 * [SciPy `solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
 * [Finite Difference Methods for Ordinary and Partial Differential Equations](https://doi.org/10.1137/1.9780898717839) by R. LeVeque, Ch. 5 - 8 (accuracy, stability, stiffness) **Recommended**
 
-<!--
 
 
 ## Week 5 - 10/27
 Quiz 2: covers topics in Homework 1-2. 
+
+<!--
+
 
 ### Class material
 * [6.4 Time-Dependent PDEs](https://caam37830-sci-comp.github.io/notes/differential-equations/pde-time-evolution)
@@ -283,9 +285,6 @@ Presentation
 Presentation
 
 -->
-
-## Week 5 - 10/27
-Quiz 2
 
 ## Week 7 - 11/10
 Quiz 3
