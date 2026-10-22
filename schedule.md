@@ -135,36 +135,37 @@ Quiz 1: 15 minutes in class, covers topics in Homework 0. You don't need to writ
 * [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
 
 
-<!--
 
 
 ## Week 4 - 10/22
 ### Homework
 * Homework 2 due
-* Homework 3 released
+* [Homework 3](https://canvas.uchicago.edu/courses/74716/assignments/921469) released, [invitation link](https://classroom50.org/caam37830-fall-2026/scientific-computing-with-python/assignments/homework-3/acceptLinks)
 
 ### Class material
-* [6.2 Accuracy, Stability, and Stiffness](https://caam37830-sci-comp.github.io/notes/differential-equations/ode-solvers)
+
 * [A.4 Unit Testing](https://caam37830-sci-comp.github.io/notes/computing/unittest)
+* [6.2 Accuracy, Stability, and Stiffness](https://caam37830-sci-comp.github.io/notes/differential-equations/ode-solvers)
+* [6.3 Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/differential-equations/bvp)
 
 
 ### Reading
 * [`unittest` documentation](https://docs.python.org/3/library/unittest.html) **Required** at least skim it to see what is in there.
 * [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html), the descriptions of the `method` options **Required**
+* [SciPy `solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
 * [Finite Difference Methods for Ordinary and Partial Differential Equations](https://doi.org/10.1137/1.9780898717839) by R. LeVeque, Ch. 5 - 8 (accuracy, stability, stiffness) **Recommended**
+
+<!--
 
 
 ## Week 5 - 10/27
 Quiz 2: covers topics in Homework 1-2. 
 
 ### Class material
-* [6.3 Boundary Value Problems](https://caam37830-sci-comp.github.io/notes/differential-equations/bvp)
 * [6.4 Time-Dependent PDEs](https://caam37830-sci-comp.github.io/notes/differential-equations/pde-time-evolution)
 
 ### Reading
-* [SciPy `solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
 * Finite Difference Methods for Ordinary and Partial Differential Equations by R. LeVeque, Ch. 2 (boundary value problems) and Ch. 9 (diffusion equations) **Recommended**
-* [Partial Differential Equations](https://oist.github.io/iSciComp/07_PDE.html) from the OIST iSciComp course **Optional**
 
 
 
