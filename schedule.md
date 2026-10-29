@@ -168,26 +168,25 @@ Quiz 2: covers topics in Homework 1-2.
 * [`unittest` documentation](https://docs.python.org/3/library/unittest.html) **Required** at least skim it to see what is in there.
 * Finite Difference Methods for Ordinary and Partial Differential Equations by R. LeVeque, Ch. 2 (boundary value problems) and Ch. 9 (diffusion equations) **Recommended**
 
-<!--
 
 
 ## Week 5 - 10/29
 ### Homework
 * Homework 3 due
 * Project proposal due tomorrow
-* Homework 4 released
+* [Homework 4](https://canvas.uchicago.edu/courses/74716/assignments/924211) released, [invitation link](https://classroom50.org/caam37830-fall-2026/scientific-computing-with-python/assignments/homework-4/acceptLinks)
 
 ### Class material
-* [3.7 Convolutions and Fourier Transforms](https://caam37830-sci-comp.github.io/notes/linear-algebra/convolutions) (review of the FFT)
+* [3.7 Convolutions and Fourier Transforms](https://caam37830-sci-comp.github.io/notes/linear-algebra/convolutions)
 * [6.5 Spectral Methods](https://caam37830-sci-comp.github.io/notes/differential-equations/spectral-methods)
 
 
 ### Reading
 * [SciPy FFT tutorial](https://docs.scipy.org/doc/scipy/tutorial/fft.html) **Required**
-* Finite Difference Methods for Ordinary and Partial Differential Equations by R. LeVeque, Ch. 10 (advection, numerical diffusion and dispersion) **Optional**
 * [An Algorithm for the Machine Calculation of Complex Fourier Series](https://doi.org/10.1090/S0025-5718-1965-0178586-1) by J. Cooley and J. Tukey, the original FFT paper **Optional**
 
 
+<!--
 
 ## Week 6 - 11/03
 ### Class material
@@ -311,9 +310,9 @@ Project proposal: 10/30.
 
 Midterm checkpoint: 11/13.
 
-Presentation: 12/01 and 12/03
+Presentation: 12/01 and 12/03.
 
-Final written project report due: 12/11
+Final written project report due: 12/11.
 
 
 ## Finals Period
