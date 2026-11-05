@@ -190,6 +190,7 @@ Quiz 2: covers topics in Homework 1-2.
 
 ## Week 6 - 11/03
 ### Class material
+* [6.5 Spectral Methods](https://caam37830-sci-comp.github.io/notes/differential-equations/spectral-methods) continued
 * [4.1 Optimization in SciPy](https://caam37830-sci-comp.github.io/notes/optimization/scipy-opt)
 
 ### Reading
@@ -213,7 +214,7 @@ Quiz 2: covers topics in Homework 1-2.
 
 
 ## Week 7 - 11/10
-Quiz 3
+Quiz 3: covers topics in Homework 3-4. 
 
 ### Class Material
 * [8.1 Generating Random Numbers](https://caam37830-sci-comp.github.io/notes/probability-statistics/generating-random)
