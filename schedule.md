@@ -205,25 +205,27 @@ Quiz 2: covers topics in Homework 1-2.
 
 ### Class material
 * [4.2 Optimization Algorithms](https://caam37830-sci-comp.github.io/notes/optimization/optimization-algorithms)
+* [1.11 Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators)
+* [8.1 Generating Random Numbers](https://caam37830-sci-comp.github.io/notes/probability-statistics/generating-random)
+
 
 ### Reading
 * [Numerical Optimization](https://link.springer.com/book/10.1007/978-0-387-40065-5) by J. Nocedal and S. Wright, Ch. 2 - 3 (line search methods), Ch. 6 (quasi-Newton methods), and Ch. 10 (least squares) **Recommended**
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) by S. Boyd and L. Vandenberghe, Ch. 9 (unconstrained minimization) **Optional**
 
-<!--
 
 
 ## Week 7 - 11/10
 Quiz 3: covers topics in Homework 3-4. 
 
+<!--
+
 ### Class Material
-* [8.1 Generating Random Numbers](https://caam37830-sci-comp.github.io/notes/probability-statistics/generating-random)
 * [8.2 SciPy stats](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats)
 * [8.3 Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
 
 ### Reading
 * [NumPy random `Generator`](https://numpy.org/doc/stable/reference/random/generator.html) **Required**
-* [1.11 Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators) **Required** (used in Homework 6)
 * [SciPy statistics tutorial](https://docs.scipy.org/doc/scipy/tutorial/stats.html) **Recommended**
 
 
@@ -285,9 +287,6 @@ Presentation
 Presentation
 
 -->
-
-## Week 7 - 11/10
-Quiz 3
 
 ## Week 9 - 11/23-27
 Thanksgiving break.
