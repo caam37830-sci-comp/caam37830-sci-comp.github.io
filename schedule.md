@@ -186,7 +186,6 @@ Quiz 2: covers topics in Homework 1-2.
 * [An Algorithm for the Machine Calculation of Complex Fourier Series](https://doi.org/10.1090/S0025-5718-1965-0178586-1) by J. Cooley and J. Tukey, the original FFT paper **Optional**
 
 
-<!--
 
 ## Week 6 - 11/03
 ### Class material
@@ -211,6 +210,7 @@ Quiz 2: covers topics in Homework 1-2.
 * [Numerical Optimization](https://link.springer.com/book/10.1007/978-0-387-40065-5) by J. Nocedal and S. Wright, Ch. 2 - 3 (line search methods), Ch. 6 (quasi-Newton methods), and Ch. 10 (least squares) **Recommended**
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) by S. Boyd and L. Vandenberghe, Ch. 9 (unconstrained minimization) **Optional**
 
+<!--
 
 
 ## Week 7 - 11/10
