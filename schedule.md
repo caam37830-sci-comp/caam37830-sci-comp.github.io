@@ -205,8 +205,7 @@ Quiz 2: covers topics in Homework 1-2.
 
 ### Class material
 * [4.2 Optimization Algorithms](https://caam37830-sci-comp.github.io/notes/optimization/optimization-algorithms)
-* [1.11 Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators)
-* [8.1 Generating Random Numbers](https://caam37830-sci-comp.github.io/notes/probability-statistics/generating-random)
+
 
 
 ### Reading
@@ -218,9 +217,10 @@ Quiz 2: covers topics in Homework 1-2.
 ## Week 7 - 11/10
 Quiz 3: covers topics in Homework 3-4. 
 
-<!--
 
 ### Class Material
+* [1.11 Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators)
+* [8.1 Generating Random Numbers](https://caam37830-sci-comp.github.io/notes/probability-statistics/generating-random)
 * [8.2 SciPy stats](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats)
 * [8.3 Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
 
@@ -228,6 +228,7 @@ Quiz 3: covers topics in Homework 3-4.
 * [NumPy random `Generator`](https://numpy.org/doc/stable/reference/random/generator.html) **Required**
 * [SciPy statistics tutorial](https://docs.scipy.org/doc/scipy/tutorial/stats.html) **Recommended**
 
+<!--
 
 
 ## Week 7 - 11/12
