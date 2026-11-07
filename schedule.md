@@ -174,7 +174,7 @@ Quiz 2: covers topics in Homework 1-2.
 ### Homework
 * Homework 3 due
 * Project proposal due tomorrow
-* [Homework 4](https://canvas.uchicago.edu/courses/74716/assignments/924211) released, [invitation link](https://classroom50.org/caam37830-fall-2026/scientific-computing-with-python/assignments/homework-4/acceptLinks)
+* [Homework 4](https://canvas.uchicago.edu/courses/74716/assignments/924211) released, [invitation link](https://classroom50.org/caam37830-fall-2026/scientific-computing-with-python/assignments/homework-4/accept)
 
 ### Class material
 * [3.7 Convolutions and Fourier Transforms](https://caam37830-sci-comp.github.io/notes/linear-algebra/convolutions)
@@ -201,7 +201,7 @@ Quiz 2: covers topics in Homework 1-2.
 ## Week 6 - 11/05
 ### Homework
 * Homework 4 due
-* Homework 5 released
+* Homework 5 released, [invitation ink](https://classroom50.org/caam37830-fall-2026/scientific-computing-with-python/assignments/homework-5/accept)
 
 ### Class material
 * [4.2 Optimization Algorithms](https://caam37830-sci-comp.github.io/notes/optimization/optimization-algorithms)
