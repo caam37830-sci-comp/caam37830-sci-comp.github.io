@@ -222,25 +222,26 @@ Quiz 3: covers topics in Homework 3-4.
 * [1.11 Iterators and Generators](https://caam37830-sci-comp.github.io/notes/python/iterators)
 * [8.1 Generating Random Numbers](https://caam37830-sci-comp.github.io/notes/probability-statistics/generating-random)
 * [8.2 SciPy stats](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats)
-* [8.3 Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
 
 ### Reading
 * [NumPy random `Generator`](https://numpy.org/doc/stable/reference/random/generator.html) **Required**
 * [SciPy statistics tutorial](https://docs.scipy.org/doc/scipy/tutorial/stats.html) **Recommended**
 
-<!--
 
 
 ## Week 7 - 11/12
 ### Homework
 * Homework 5 due
 * Project midterm checkpoint due tomorrow
-* Homework 6 released
+* Homework 6 released, [invitation ink](https://classroom50.org/caam37830-fall-2026/scientific-computing-with-python/assignments/homework-6/accept)
 
 ### Class Material
+* [8.2 SciPy stats](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats) continued
+* [8.3 Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
 * [8.4 Stochastic Simulation](https://caam37830-sci-comp.github.io/notes/probability-statistics/stochastic-simulation)
 * [A.7 Agent-Based Models](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
 
+<!--
 
 
 ## Week 8 - 11/17
@@ -269,23 +270,6 @@ Quiz 3: covers topics in Homework 3-4.
 
 ### Reading
 * [PyTorch: Learn the Basics](https://pytorch.org/tutorials/beginner/basics/intro.html) **Required**
-
-
-## Week 9 - 11/23-27
-Thanksgiving break.
-
-
-## Week 10 - 12/01
-Quiz 4
-
-Presentation
-
-
-## Week 10 - 12/03
-### Homework
-* Homework 7 due
-
-Presentation
 
 -->
 
