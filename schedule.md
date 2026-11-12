@@ -239,14 +239,13 @@ Quiz 3: covers topics in Homework 3-4.
 * [8.2 SciPy stats](https://caam37830-sci-comp.github.io/notes/probability-statistics/scipy-stats) continued
 * [8.3 Monte Carlo Methods](https://caam37830-sci-comp.github.io/notes/probability-statistics/monte-carlo)
 * [8.4 Stochastic Simulation](https://caam37830-sci-comp.github.io/notes/probability-statistics/stochastic-simulation)
-* [A.7 Agent-Based Models](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
 
-<!--
 
 
 ## Week 8 - 11/17
 
 ### Class material
+* [A.7 Agent-Based Models](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
 * [9.1 Pandas](https://caam37830-sci-comp.github.io/notes/data/pandas)
 * [9.3 Scikit Learn](https://caam37830-sci-comp.github.io/notes/data/sklearn)
 * [9.2 Dimension Reduction and Data Visualization](https://caam37830-sci-comp.github.io/notes/data/dimension-reduction)
@@ -256,6 +255,7 @@ Quiz 3: covers topics in Homework 3-4.
 * [scikit-learn: Getting Started](https://scikit-learn.org/stable/getting_started.html) **Required**
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by J. VanderPlas, Ch. 3 (pandas) and Ch. 5 (machine learning) **Recommended**
 
+<!--
 
 
 ## Week 8 - 11/19
