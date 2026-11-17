@@ -278,8 +278,6 @@ Thanksgiving break.
 
 
 ## Week 10 - 12/01
-Quiz 4
-
 Presentation
 
 
