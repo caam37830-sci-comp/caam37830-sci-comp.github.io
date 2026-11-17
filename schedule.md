@@ -247,8 +247,8 @@ Quiz 3: covers topics in Homework 3-4.
 ### Class material
 * [A.7 Agent-Based Models](https://caam37830-sci-comp.github.io/notes/computing/agent-based-models)
 * [9.1 Pandas](https://caam37830-sci-comp.github.io/notes/data/pandas)
-* [9.3 Scikit Learn](https://caam37830-sci-comp.github.io/notes/data/sklearn)
-* [9.2 Dimension Reduction and Data Visualization](https://caam37830-sci-comp.github.io/notes/data/dimension-reduction)
+* [9.2 Scikit Learn](https://caam37830-sci-comp.github.io/notes/data/sklearn)
+* [9.3 Dimension Reduction and Data Visualization](https://caam37830-sci-comp.github.io/notes/data/dimension-reduction)
 
 ### Reading
 * [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html) **Required**
@@ -261,7 +261,7 @@ Quiz 3: covers topics in Homework 3-4.
 ## Week 8 - 11/19
 ### Homework
 * Homework 6 due
-* Homework 7 released
+
 
 ### Class Material
 * [3.8 Linear Algebra in PyTorch](https://caam37830-sci-comp.github.io/notes/linear-algebra/pytorch)
