@@ -283,7 +283,7 @@ Thanksgiving break.
 
 
 ## Week 10 - 12/03
-Presentation
+### Presentation
 
 **Group 1** Wavepacket Propagation in Periodic Media: Numerical Methods for Schrödinger Dynamics
 
