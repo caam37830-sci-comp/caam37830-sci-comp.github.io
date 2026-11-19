@@ -255,8 +255,6 @@ Quiz 3: covers topics in Homework 3-4.
 * [scikit-learn: Getting Started](https://scikit-learn.org/stable/getting_started.html) **Required**
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by J. VanderPlas, Ch. 3 (pandas) and Ch. 5 (machine learning) **Recommended**
 
-<!--
-
 
 ## Week 8 - 11/19
 ### Homework
@@ -271,18 +269,25 @@ Quiz 3: covers topics in Homework 3-4.
 ### Reading
 * [PyTorch: Learn the Basics](https://pytorch.org/tutorials/beginner/basics/intro.html) **Required**
 
--->
 
 ## Week 9 - 11/23-27
 Thanksgiving break.
 
 
 ## Week 10 - 12/01
-Presentation
+### Presentation
+
+**Group 0** Deterministic ODE vs. stochastic agent-based SIRS
+
+**Group 3** Evaluating Birth-death Adaptive Sampling for Neural Galerkin Schemes
 
 
 ## Week 10 - 12/03
 Presentation
+
+**Group 1** Wavepacket Propagation in Periodic Media: Numerical Methods for Schrödinger Dynamics
+
+**Group 2** Epidemic Spread Across Scale
 
 
 ## Project timeline
